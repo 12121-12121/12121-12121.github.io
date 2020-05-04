@@ -6,4 +6,4 @@ layout: default
 
 _yay_
 
-[back](./)
+[返回首页](https://12121-12121.github.io/))
