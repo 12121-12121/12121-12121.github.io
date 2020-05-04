@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 联系作者  
-欢迎大家和我联系！:blush:  
+欢迎大家和我联系！
 <table>
 	<tr>
 	    <th>作者</th>
