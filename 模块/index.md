@@ -12,3 +12,7 @@ layout: default
 
 [返回首页](https://12121-12121.github.io/)  
 [返回上一级目录](https://12121-12121.github.io/)  
+
+***  
+
+<center>Copyright © 2020 王正鑫, All Rights Reserved</center>  
