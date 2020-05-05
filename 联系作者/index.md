@@ -21,6 +21,10 @@ layout: default
 	</tr>
 </table>  
 
+<html>  
+<a href="mailto:wangzx12321@vip.qq.com?subject=&body=" rel="nofollow">发送邮件</a>  
+</html>
+
 [返回首页](https://12121-12121.github.io/)  
 
 ***  
