@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+王正鑫
+一个初一小男孩
+
+爱骑行,
+爱生活,
+爱自己
+
+生活不只是眼前的苟且,
+还有诗和远方.
+
+***  
+
+[返回首页](https://12121-12121.github.io/)  
+
+***  
+
+<center>Copyright © 2020 王正鑫, All Rights Reserved</center>  
