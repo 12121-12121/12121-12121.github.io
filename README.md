@@ -15,7 +15,7 @@
 	    <td>QQ:3331795694</td>
 	</tr>
 	<tr>
-	    <td>邮箱：wangzx12321@outlook.com</td>
+	    <td>邮箱：wangzx12321@vip.qq.com</td>
 	</tr>
 	<tr>
 	    <td>其他</td>
