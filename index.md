@@ -19,5 +19,6 @@ layout: default
 ***  
 
 #### [说明](https://12121-12121.github.io/说明/)  
+#### [友链](https://12121-12121.github.io/友链/)  
 
 ***  
