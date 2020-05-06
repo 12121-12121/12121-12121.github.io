@@ -8,7 +8,7 @@ layout: default
 
 ***  
 
-[WuQi的博客](https://kind-of-lazy.github.io/)
+* ### [WuQi的博客](https://kind-of-lazy.github.io/)
 
 ***  
 
