@@ -19,6 +19,7 @@ layout: default
 ***  
 
 #### [王正鑫的技术博客](https://wangzx12121.github.io/)  
+#### [王正鑫的休闲博客](https://wangzx12321.github.io/)  
 #### [说明](https://12121-12121.github.io/说明/)  
 #### [友链](https://12121-12121.github.io/友链/)  
 
