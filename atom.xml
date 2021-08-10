@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2021-08-10T03:27:11.658Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/08/03/hello-world/"/>
-    <id>http://example.com/2021/08/03/hello-world/</id>
-    <published>2021-08-03T06:02:04.373Z</published>
-    <updated>1985-10-26T08:15:00.000Z</updated>
+    <title>My first blog</title>
+    <link href="http://example.com/2021/08/04/my-first-blog/"/>
+    <id>http://example.com/2021/08/04/my-first-blog/</id>
+    <published>2021-08-04T13:54:38.000Z</published>
+    <updated>2021-08-10T03:27:11.658Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>&emsp;&emsp;Hello~ 今天（2021/8/10）是本博客正式建立的日子！我觉得我有必要说说为什么肝这一个个人站。</p><span id="more"></span><p>&emsp;&emsp;首先当然是为了记录一些教程啦，码代码时遇到的坑啦，一些测评啦，还有各种乱七八糟的事啦~ 相信能帮到许多小朋友呢。<br>&emsp;&emsp;那么了解我的朋友可能会知道我曾经也建立过一个基于 WordPress 的个人站。那么我为什么又换了呢？话说<a href="https://wangzhengxin.com/">我之前注册的那个域名 https://wangzhengxin.com/</a> 不幸到期了，而我忘了续费，然后就归别人了。然后我又发现 zhengxin.wang, wangzheng.xin 等域名都被注册了…一时没有好域名，我就暂时用下某网站的 Pages 服务吧。然后 Gitee 正在整改，不让用，那我只能用某同性恋交友网站的服务喽😂不过由于众所周知的原因，部分朋友访问的速度可能有亿点慢。那我为什么没有继续用 WordPress 呢？因为我把备份的源文件给弄丢了，大概是我换电脑的时候叭。然后我忍痛换成了静态的 Hexo。主要是想多“折腾折腾”（不用再单独买服务器了）🤣，当然访问速度也会快一点。只是可惜了我那80多篇博文…<br>&emsp;&emsp;不过人家 GayHub 能给用就不错啦~<br>&emsp;&emsp;欢迎大家持续关注哦！（加友链下方评论哦！）</p><hr><p>本文原始出处：<a href="https://12121-12121.github.io/">https://12121-12121.github.io/</a>  <a href="https://wangzhengxin.com/">https://wangzhengxin.com/</a><br>坚持原创，从我做起！<br>欢迎转载分享哦！</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;Hello~ 今天（2021/8/10）是本博客正式建立的日子！我觉得我有必要说说为什么肝这一个个人站。&lt;/p&gt;</summary>
     
     
     
